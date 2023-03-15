@@ -150,18 +150,21 @@ li {
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
 }
-.portfolio-categories {
+.portfolio-categories button {
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
   text-align: Center;
   color: #212121;
+  background-color: #f5f4fa;
 }
-.portfolio-categories:focus {
-  color: #2196f3;
+.portfolio-categories button:focus {
+  background-color: #2196f3;
+  color: #ffffff;
 }
-.portfolio-categories:hover {
-  color: #2196f3;
+.portfolio-categories button:hover {
+  background-color: #2196f3;
+  color: #ffffff;
 }
 
 .portfolio-img h3 {
