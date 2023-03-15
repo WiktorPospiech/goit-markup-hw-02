@@ -157,6 +157,13 @@ li {
   text-align: Center;
   color: #212121;
 }
+.portfolio-categories:focus {
+  color: #2196f3;
+}
+.portfolio-categories:hover {
+  color: #2196f3;
+}
+
 .portfolio-img h3 {
   font-weight: 700;
   font-size: 18px;
