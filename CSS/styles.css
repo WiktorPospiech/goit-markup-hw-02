@@ -5,7 +5,6 @@
 body {
   font-family: "Raleway", sans-serif;
   font-family: "Roboto", sans-serif;
-  font-family: "Oleo Script", cursive;
 }
 li {
   list-style-type: none;
@@ -22,8 +21,6 @@ li {
 }
 .logo span {
   color: #000000;
-  font-family: "Oleo Script";
-  font-size: 26px;
 }
 .logo span:focus,
 .logo span:hover {
