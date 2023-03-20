@@ -23,7 +23,7 @@ li {
 }
 .logo,
 .footer-logo {
-  font-family: "Releway";
+  font-family: "Releway, sans-serif";
   font-weight: 700;
   font-size: 26px;
   color: var(--brand-color);
@@ -42,7 +42,7 @@ li {
 }
 .menu a,
 .contacts a {
-  font-family: "Roboto";
+  font-family: "Roboto, sans-serif";
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
@@ -67,15 +67,15 @@ li {
   font-weight: 900;
   line-height: 60px;
   letter-spacing: 0.06em;
-  color: #ffffff;
+  color: #fff;
 }
 .slogan-button {
-  font-family: "Roboto";
+  font-family: "Roboto, sans-serif";
   font-size: 16px;
   font-weight: 700;
   line-height: 30px;
   letter-spacing: 0.06em;
-  color: #ffffff;
+  color: #fff;
   background-color: var(--brand-color);
 }
 .advantages h3 {
@@ -110,23 +110,23 @@ li {
   background: var(--background-color);
 }
 .footer-logo span {
-  color: #ffffff;
+  color: #fff;
 }
 .footer_adres {
   font-style: normal;
   line-height: 24px;
-  color: #ffffff;
+  color: #fff;
 }
 .footer-contacts a {
   font-style: normal;
-  font-family: "Roboto";
+  font-family: "Roboto, sans-serif";
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
 .portfolio-categories button {
-  font-family: "Roboto";
+  font-family: "Roboto, sans-serif";
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
@@ -136,7 +136,7 @@ li {
 .portfolio-categories button:focus,
 .portfolio-categories button:hover {
   background-color: var(--brand-color);
-  color: #ffffff;
+  color: #fff;
 }
 .portfolio-img h3 {
   font-weight: 700;
