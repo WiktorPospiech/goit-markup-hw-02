@@ -27,7 +27,7 @@ li {
   font-weight: 700;
   font-size: 26px;
   color: var(--brand-color);
-  line-height: 31px;
+  line-height: 1.2px;
   letter-spacing: 0.03em;
 }
 .logo span {
@@ -45,7 +45,7 @@ li {
   font-family: "Roboto, sans-serif";
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.1;
   letter-spacing: 0.02em;
 }
 .menu a:focus,
@@ -65,7 +65,7 @@ li {
 .slogan {
   font-size: 44px;
   font-weight: 900;
-  line-height: 60px;
+  line-height: 1.4;
   letter-spacing: 0.06em;
   color: #fff;
 }
@@ -73,7 +73,7 @@ li {
   font-family: "Roboto, sans-serif";
   font-size: 16px;
   font-weight: 700;
-  line-height: 30px;
+  line-height: 1.9;
   letter-spacing: 0.06em;
   color: #fff;
   background-color: var(--brand-color);
@@ -82,17 +82,17 @@ li {
   color: var(--color-secondary);
   font-weight: 700;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.1;
 }
 .advantages p {
-  line-height: 24px;
+  line-height: 1.7;
 }
 .example h2,
 .aboutus h2 {
   color: var(--color-secondary);
   font-weight: 700;
   font-size: 36px;
-  line-height: 42px;
+  line-height: 1.2;
 }
 .aboutus {
   background: #f5f4fa;
@@ -104,7 +104,7 @@ li {
 .aboutus p,
 .aboutus h3 {
   font-size: 16px;
-  line-height: 19px;
+  line-height: 1.2;
 }
 .page-footer {
   background: var(--background-color);
@@ -114,14 +114,14 @@ li {
 }
 .footer_adres {
   font-style: normal;
-  line-height: 24px;
+  line-height: 1.7;
   color: #fff;
 }
 .footer-contacts a {
   font-style: normal;
   font-family: "Roboto, sans-serif";
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.7;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
@@ -129,7 +129,7 @@ li {
   font-family: "Roboto, sans-serif";
   font-weight: 500;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 1.6;
   color: var(--color-secondary);
   background-color: #f5f4fa;
 }
@@ -141,11 +141,11 @@ li {
 .portfolio-img h3 {
   font-weight: 700;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 2;
   letter-spacing: 0.06em;
   color: var(--color-secondary);
 }
 .portfolio-img p {
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.9;
 }
